@@ -34,7 +34,7 @@ var viewer = pannellum.viewer('panorama',{
         "panorama": "29.5m.jpg",  // CHANGE THE IMAGE NAME
         "hfov":200,
         "haov":360,
-        "vaov":180,
+        "vaov":86,
         "minPitch":-25,
         "maxPitch": 25,
         "yaw": 0,         //  IF NEEDED CHANGE THE YAW VALUE
